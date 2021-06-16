@@ -1,0 +1,12 @@
+.principal {
+    height: 400px;
+}
+.secundario{
+    height: 200px;
+}
+.caja{
+    align-self: center;
+}
+.botonfooter{
+    width: 20%;
+}
